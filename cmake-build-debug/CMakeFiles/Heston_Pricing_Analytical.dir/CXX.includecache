@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Owner/Desktop/Mathematical Finance Material/Dissertation Thesis/Code/C++/Heston_Pricing_Analytical/Data.cpp
+iostream
+-
+random
+-
+Data.hpp
+C:/Users/Owner/Desktop/Mathematical Finance Material/Dissertation Thesis/Code/C++/Heston_Pricing_Analytical/Data.hpp
+Heston.hpp
+C:/Users/Owner/Desktop/Mathematical Finance Material/Dissertation Thesis/Code/C++/Heston_Pricing_Analytical/Heston.hpp
+
+C:/Users/Owner/Desktop/Mathematical Finance Material/Dissertation Thesis/Code/C++/Heston_Pricing_Analytical/Data.hpp
+vector
+-
+
+C:/Users/Owner/Desktop/Mathematical Finance Material/Dissertation Thesis/Code/C++/Heston_Pricing_Analytical/Heston.hpp
+iostream
+-
+cmath
+-
+complex
+-
+algorithm
+-
+string
+-
+
